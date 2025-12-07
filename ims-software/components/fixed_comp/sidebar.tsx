@@ -27,7 +27,7 @@ const demoMenu: MenuItem[] = [
     icon: <FileText size={18} />,
     children: [
       { id: "all", label: "Add Intern", href: "/pages/add-interns" },
-      { id: "new", label: "New Project", href: "/projects/new" },
+      { id: "new", label: "View Interns", href: "/pages/view-interns" },
     ],
   },
   { id: "settings", label: "Settings", href: "/settings", icon: <Settings size={18} /> },

@@ -1,4 +1,5 @@
-import InternshipForm from "@/components/fixed_comp/Add_interns";
+"use client"
+import InternshipForm from "@/app/pages/add-interns/Add_interns";
 
 export default function Intern_Add() {
   return (
